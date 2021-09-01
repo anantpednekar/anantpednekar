@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnantPednekar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Devops 
 - 📫 Reach me on Gmail : anantpednekar6@gmail.com
 
 <!---
